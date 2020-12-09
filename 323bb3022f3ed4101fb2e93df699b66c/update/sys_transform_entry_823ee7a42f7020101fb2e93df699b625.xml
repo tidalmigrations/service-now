@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>ignore</choice_action>
+        <coalesce>true</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="Tidal Application Relationship Transform">fb9c6b682f3020101fb2e93df699b6a9</map>
+        <reference_value_field/>
+        <source_field>[Script]</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+    // Lookup Server Records
+    if (source.server_id != '') {
+        var server = new GlideRecord("cmdb_ci_server");
+        server.get('x_74235_tidal_ci_tidal_id', source.server_id);
+        return server.sys_id;
+    } 
+	// Lookup Database Records
+	else if (source.database_id != '') {
+        var database = new GlideRecord("cmdb_ci_database");
+        database.get('x_74235_tidal_ci_tidal_id', source.database_id);
+        return database.sys_id;
+    }
+})(source);]]></source_script>
+        <source_table>x_74235_tidal_ci_tidal_application_relationship_import</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-27 16:45:46</sys_created_on>
+        <sys_id>823ee7a42f7020101fb2e93df699b625</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>[Script]</sys_name>
+        <sys_package display_value="Tidal CI Integration" source="x_74235_tidal_ci">323bb3022f3ed4101fb2e93df699b66c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</sys_scope>
+        <sys_update_name>sys_transform_entry_823ee7a42f7020101fb2e93df699b625</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-27 17:05:19</sys_updated_on>
+        <target_field>child</target_field>
+        <target_table>cmdb_rel_ci</target_table>
+        <use_source_script>true</use_source_script>
+    </sys_transform_entry>
+</record_update>

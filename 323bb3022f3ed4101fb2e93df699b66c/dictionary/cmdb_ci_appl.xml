@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci" label="Application" max_length="40" name="cmdb_ci_appl" sizeclass="122" type="collection">
+        <element label="Business continuity plan" max_length="40" name="x_74235_tidal_ci_business_continuity_plan" type="boolean"/>
+        <element label="Can run on Linux" max_length="40" name="x_74235_tidal_ci_can_run_on_linux" type="boolean"/>
+        <element label="Continuous delivery" max_length="40" name="x_74235_tidal_ci_continuous_delivery" type="boolean"/>
+        <element label="COTS" max_length="40" name="x_74235_tidal_ci_cots" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Data sensitivity" max_length="40" name="x_74235_tidal_ci_data_sensitivity" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="0" value="Low"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="Medium"/>
+                <element inactive_on_update="false" label="High" sequence="2" value="High"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="End of support" max_length="40" name="x_74235_tidal_ci_end_of_support" type="glide_date"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Forecasted cost" max_length="20" name="x_74235_tidal_ci_forecasted_cost" type="price"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Frequency of deployments" max_length="40" name="x_74235_tidal_ci_frequency_of_deployments" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Daily" sequence="0" value="Daily"/>
+                <element inactive_on_update="false" label="Hourly" sequence="0" value="Hourly"/>
+                <element inactive_on_update="false" label="Monthly" sequence="0" value="Monthly"/>
+                <element inactive_on_update="false" label="Yearly" sequence="0" value="Yearly"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Hosting costs" max_length="20" name="x_74235_tidal_ci_hosting_costs" type="price"/>
+        <element label="Legal hold" max_length="40" name="x_74235_tidal_ci_legal_hold" type="boolean"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Migration estimate" max_length="20" name="x_74235_tidal_ci_migration_estimate" type="price"/>
+        <element label="Person hours saved" max_length="40" name="x_74235_tidal_ci_person_hours_saved" type="integer"/>
+        <element label="PII" max_length="40" name="x_74235_tidal_ci_pii" type="boolean"/>
+        <element label="Regulated requirements" max_length="40" name="x_74235_tidal_ci_regulated_requirements" type="boolean"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Revenue" max_length="20" name="x_74235_tidal_ci_revenue" type="price"/>
+        <element label="Source code controlled" max_length="40" name="x_74235_tidal_ci_source_code_controlled" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Source code location" max_length="4000" name="x_74235_tidal_ci_source_code_location" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Staff costs" max_length="20" name="x_74235_tidal_ci_staff_costs" type="price"/>
+        <element label="Tidal ID" max_length="40" name="x_74235_tidal_ci_tidal_id" type="string"/>
+        <element label="Total db storage (MB)" max_length="40" name="x_74235_tidal_ci_total_db_storage" type="integer"/>
+        <element label="Total users" max_length="40" name="x_74235_tidal_ci_total_users" type="integer"/>
+        <element label="Transition overview" max_length="65536" name="x_74235_tidal_ci_transition_overview" type="html"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Transition plan complete" max_length="40" name="x_74235_tidal_ci_transition_plan_complete" type="string">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="0"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="true"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Transition type" max_length="40" name="x_74235_tidal_ci_transition_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Refactor" sequence="0" value="refactor"/>
+                <element inactive_on_update="false" label="Rehost" sequence="1" value="rehost"/>
+                <element inactive_on_update="false" label="Replatform" sequence="2" value="replatform"/>
+                <element inactive_on_update="false" label="Repurchase" sequence="3" value="repurchase"/>
+                <element inactive_on_update="false" label="Retain" sequence="4" value="retain"/>
+                <element inactive_on_update="false" label="Retire" sequence="5" value="retire"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Uptime requirements" max_length="40" name="x_74235_tidal_ci_uptime_requirements" type="string">
+            <choice>
+                <element inactive_on_update="false" label="24x7" sequence="0" value="24x7"/>
+                <element inactive_on_update="false" label="9am-5pm, Mon-Fri" sequence="1" value="9am-5pm, Mon-Fri"/>
+                <element inactive_on_update="false" label="9am-5pm, Mon-Sat" sequence="2" value="9am-5pm, Mon-Sat"/>
+                <element inactive_on_update="false" label="9am-5pm, Mon-Sun" sequence="3" value="9am-5pm, Mon-Sun"/>
+                <element inactive_on_update="false" label="7am-7pm, Mon-Fri" sequence="4" value="7am-7pm, Mon-Fri"/>
+            </choice>
+        </element>
+    </element>
+</database>

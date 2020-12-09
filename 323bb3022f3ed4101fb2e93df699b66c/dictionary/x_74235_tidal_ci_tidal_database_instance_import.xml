@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Tidal Database Instance Import" max_length="40" name="x_74235_tidal_ci_tidal_database_instance_import" sizeclass="0" type="collection">
+        <element label="Custom fields" max_length="4000" name="custom_fields" type="string"/>
+        <element label="Database Path" max_length="1000" name="database_path" type="string"/>
+        <element label="Database size (MB)" max_length="40" name="database_size_mb" type="integer"/>
+        <element label="DBA database size (GB)" max_length="40" name="dba_database_size_gb" type="integer"/>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element label="ID" max_length="40" name="id" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Recommend transitions" max_length="40" name="recommend_transitions" type="string"/>
+        <element label="Server ID" max_length="40" name="server_id" type="string"/>
+        <element label="Transition type" max_length="40" name="transition_type" type="string"/>
+    </element>
+</database>

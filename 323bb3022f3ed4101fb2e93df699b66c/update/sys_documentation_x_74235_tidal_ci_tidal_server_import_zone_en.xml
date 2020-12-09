@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="zone" label="Zone" language="en" table="x_74235_tidal_ci_tidal_server_import">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>zone</element>
+            <help/>
+            <hint/>
+            <label>Zone</label>
+            <language>en</language>
+            <name>x_74235_tidal_ci_tidal_server_import</name>
+            <plural>Zones</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-30 13:36:31</sys_created_on>
+            <sys_id>a2b61c022f6310101fb2e93df699b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Zone</sys_name>
+            <sys_package display_value="Tidal CI Integration" source="x_74235_tidal_ci">323bb3022f3ed4101fb2e93df699b66c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</sys_scope>
+            <sys_update_name>sys_documentation_x_74235_tidal_ci_tidal_server_import_zone_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-30 13:36:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

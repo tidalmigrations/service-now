@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Tidal Migrations - Financial" section_id="f37ffd3f2fbb10101fb2e93df699b690" sys_domain="global" table="cmdb_ci_appl" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_74235_tidal_ci_revenue</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 18:01:48</sys_created_on>
+            <sys_id>841086732ffb10101fb2e93df699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tidal Migrations - Financial" display_value="Tidal Migrations - Financial" name="cmdb_ci_appl" sys_domain="global" view="Default view">f37ffd3f2fbb10101fb2e93df699b690</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 18:01:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_74235_tidal_ci_hosting_costs</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 18:01:48</sys_created_on>
+            <sys_id>081086732ffb10101fb2e93df699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tidal Migrations - Financial" display_value="Tidal Migrations - Financial" name="cmdb_ci_appl" sys_domain="global" view="Default view">f37ffd3f2fbb10101fb2e93df699b690</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 18:01:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_74235_tidal_ci_staff_costs</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 18:01:48</sys_created_on>
+            <sys_id>881086732ffb10101fb2e93df699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tidal Migrations - Financial" display_value="Tidal Migrations - Financial" name="cmdb_ci_appl" sys_domain="global" view="Default view">f37ffd3f2fbb10101fb2e93df699b690</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 18:01:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 18:01:48</sys_created_on>
+            <sys_id>0c1086732ffb10101fb2e93df699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tidal Migrations - Financial" display_value="Tidal Migrations - Financial" name="cmdb_ci_appl" sys_domain="global" view="Default view">f37ffd3f2fbb10101fb2e93df699b690</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 18:01:48</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_74235_tidal_ci_person_hours_saved</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 18:01:48</sys_created_on>
+            <sys_id>8c1086732ffb10101fb2e93df699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tidal Migrations - Financial" display_value="Tidal Migrations - Financial" name="cmdb_ci_appl" sys_domain="global" view="Default view">f37ffd3f2fbb10101fb2e93df699b690</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 18:01:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_74235_tidal_ci_forecasted_cost</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 18:01:48</sys_created_on>
+            <sys_id>001086732ffb10101fb2e93df699b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tidal Migrations - Financial" display_value="Tidal Migrations - Financial" name="cmdb_ci_appl" sys_domain="global" view="Default view">f37ffd3f2fbb10101fb2e93df699b690</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 18:01:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Tidal Migrations - Financial</caption>
+            <header>false</header>
+            <name>cmdb_ci_appl</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 17:59:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f37ffd3f2fbb10101fb2e93df699b690</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_appl</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tidal CI Integration" source="x_74235_tidal_ci">323bb3022f3ed4101fb2e93df699b66c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</sys_scope>
+            <sys_update_name>sys_ui_section_f37ffd3f2fbb10101fb2e93df699b690</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 17:59:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Tidal Application Relationship Import" max_length="40" name="x_74235_tidal_ci_tidal_application_relationship_import" sizeclass="0" type="collection">
+        <element label="Action" max_length="40" name="action" type="string"/>
+        <element label="App ID" max_length="40" name="app_id" type="string"/>
+        <element label="Database ID" max_length="40" name="database_id" type="string"/>
+        <element label="Server ID" max_length="40" name="server_id" type="string"/>
+    </element>
+</database>

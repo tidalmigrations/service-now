@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Tidal Application Import" max_length="40" name="x_74235_tidal_ci_tidal_application_import" sizeclass="0" type="collection">
+        <element label="Annual Hosting Costs" max_length="20" name="annual_hosting_costs" type="decimal"/>
+        <element label="Annual staff costs" max_length="20" name="annual_staff_costs" type="decimal"/>
+        <element label="App database size (MB)" max_length="40" name="app_database_size_mb" type="integer"/>
+        <element label="Blockers" max_length="20" name="blockers" type="decimal"/>
+        <element label="Boosters" max_length="20" name="boosters" type="decimal"/>
+        <element label="Business continuity plan" max_length="40" name="business_continuity_plan" type="boolean"/>
+        <element label="Business value" max_length="20" name="business_value" type="decimal"/>
+        <element label="Can run on linux" max_length="40" name="can_run_on_linux" type="boolean"/>
+        <element label="Cast identifier" max_length="40" name="cast_identifier" type="integer"/>
+        <element label="Continuous delivery" max_length="40" name="continuous_delivery" type="boolean"/>
+        <element label="Cots" max_length="40" name="cots" type="boolean"/>
+        <element label="Created at" max_length="100" name="created_at" type="string"/>
+        <element default="1000" label="Custom fields" max_length="1000" name="custom_fields" type="string"/>
+        <element label="Data sensitivity" max_length="40" name="data_sensitivity" type="string"/>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element label="Diagram id" max_length="40" name="diagram_id" type="integer"/>
+        <element label="End of support date" max_length="100" name="end_of_support_date" type="string"/>
+        <element label="Forecast midpoint cost" max_length="20" name="forecast_midpoint_cost" type="decimal"/>
+        <element label="Frequency of deployments" max_length="40" name="frequency_of_deployments" type="string"/>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element label="Legal holds" max_length="40" name="legal_holds" type="boolean"/>
+        <element label="Lines of code" max_length="40" name="lines_of_code" type="integer"/>
+        <element label="Migration complexity" max_length="20" name="migration_complexity" type="decimal"/>
+        <element label="Migration effort estimate" max_length="40" name="migration_effort_estimate" type="integer"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="PaaS readiness" max_length="20" name="paas_readiness" type="decimal"/>
+        <element label="Person hours saved" max_length="40" name="person_hours_saved" type="integer"/>
+        <element label="PII" max_length="40" name="pii" type="boolean"/>
+        <element label="Recommended transition type" max_length="40" name="recommended_transition_type" type="string"/>
+        <element label="Regulated requirements" max_length="40" name="regulated_requirements" type="boolean"/>
+        <element label="Revenue" max_length="20" name="revenue" type="decimal"/>
+        <element label="Roadblocks" max_length="40" name="roadblocks" type="integer"/>
+        <element label="Score" max_length="20" name="score" type="decimal"/>
+        <element label="Source code controlled" max_length="40" name="source_code_controlled" type="boolean"/>
+        <element label="Source code location" max_length="1000" name="source_code_location" type="string"/>
+        <element label="Total users" max_length="40" name="total_users" type="integer"/>
+        <element label="Transition overview" max_length="1000" name="transition_overview" type="html"/>
+        <element label="Transition plan complete" max_length="40" name="transition_plan_complete" type="boolean"/>
+        <element label="Transition type" max_length="40" name="transition_type" type="string"/>
+        <element label="Updated at" max_length="100" name="updated_at" type="string"/>
+        <element label="Uptime requirements" max_length="40" name="uptime_requirements" type="string"/>
+    </element>
+</database>

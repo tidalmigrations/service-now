@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_computer" label="Server" max_length="40" name="cmdb_ci_server" sizeclass="337" type="collection">
+        <element label="Tidal ID" max_length="40" name="x_74235_tidal_ci_tidal_id" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_74235_tidal_ci_tidal_id" label="Tidal ID" language="en" table="cmdb_ci_database">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_74235_tidal_ci_tidal_id</element>
+            <help/>
+            <hint/>
+            <label>Tidal ID</label>
+            <language>en</language>
+            <name>cmdb_ci_database</name>
+            <plural>Tidal IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-18 14:56:40</sys_created_on>
+            <sys_id>92fefcfd2f2020101fb2e93df699b66d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Tidal ID</sys_name>
+            <sys_package display_value="Tidal CI Integration" source="x_74235_tidal_ci">323bb3022f3ed4101fb2e93df699b66c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_database_x_74235_tidal_ci_tidal_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-18 14:56:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

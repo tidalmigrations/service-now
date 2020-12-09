@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="x_74235_tidal_ci_transition_overview" table="cmdb_ci_business_app">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Transition overview</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>x_74235_tidal_ci_transition_overview</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="HTML">html</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>65536</max_length>
+        <name>cmdb_ci_business_app</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-21 23:31:26</sys_created_on>
+        <sys_id>6d9840572f9b90101fb2e93df699b6c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transition overview</sys_name>
+        <sys_package display_value="Tidal CI Integration" source="x_74235_tidal_ci">323bb3022f3ed4101fb2e93df699b66c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</sys_scope>
+        <sys_update_name>sys_dictionary_cmdb_ci_business_app_x_74235_tidal_ci_transition_overview</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-21 23:31:26</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</application>
+        <file_path/>
+        <instance_id>bea99d9bdbb60490387021c4059619e2</instance_id>
+        <instance_name>dev100357</instance_name>
+        <name>sys_dictionary_cmdb_ci_business_app_x_74235_tidal_ci_transition_overview</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="x_74235_tidal_ci_transition_overview" table="cmdb_ci_business_app"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Transition overview</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>x_74235_tidal_ci_transition_overview</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="HTML">html</internal_type><mandatory>false</mandatory><max_length>65536</max_length><name>cmdb_ci_business_app</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-21 23:31:26</sys_created_on><sys_id>6d9840572f9b90101fb2e93df699b6c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Transition overview</sys_name><sys_package display_value="Tidal CI Integration" source="x_74235_tidal_ci">323bb3022f3ed4101fb2e93df699b66c</sys_package><sys_policy/><sys_scope display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</sys_scope><sys_update_name>sys_dictionary_cmdb_ci_business_app_x_74235_tidal_ci_transition_overview</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-21 23:31:26</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1527070150</payload_hash>
+        <record_name>Business Application.Transition overview</record_name>
+        <reverted_from/>
+        <source>ee0cf38a2fbed4101fb2e93df699b688</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-21 23:31:27</sys_created_on>
+        <sys_id>3d9880572f9b90101fb2e93df699b614</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174b30201ee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-21 23:31:27</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>b5988057fc9b9010c205c177f98cc814</update_guid>
+        <update_guid_history>b5988057fc9b9010c205c177f98cc814:-1527070150</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-18 17:30:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>0e6406013dfc4f9a91f27e2daac9b0d1</sys_id>
+        <sys_metadata>6d9840572f9b90101fb2e93df699b6c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transition overview</sys_name>
+        <sys_package display_value="Tidal CI Integration" source="x_74235_tidal_ci">323bb3022f3ed4101fb2e93df699b66c</sys_package>
+        <sys_parent display_value="CMDB CI Business App">f60b93032f6210101fb2e93df699b64e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</sys_scope>
+        <sys_scope_delete display_value="">1e2e07e90ed949f0a21e493ad1437a44</sys_scope_delete>
+        <sys_update_name>sys_dictionary_cmdb_ci_business_app_x_74235_tidal_ci_transition_overview</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_cmdb_ci_business_app_x_74235_tidal_ci_transition_overview">3d9880572f9b90101fb2e93df699b614</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 17:30:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

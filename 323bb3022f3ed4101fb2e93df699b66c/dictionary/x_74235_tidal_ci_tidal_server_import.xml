@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Tidal Server Import" max_length="40" name="x_74235_tidal_ci_tidal_server_import" sizeclass="0" type="collection">
+        <element label="Cluster ID" max_length="40" name="cluster_id" type="string"/>
+        <element label="CPU count" max_length="40" name="cpu_count" type="integer"/>
+        <element label="CPU name" max_length="40" name="cpu_name" type="string"/>
+        <element label="Created at" max_length="40" name="created_at" type="string"/>
+        <element label="description" max_length="100" name="description" type="string"/>
+        <element label="Environment ID" max_length="40" name="environment_id" type="string"/>
+        <element label="fqdn" max_length="100" name="fqdn" type="string"/>
+        <element label="Host name" max_length="40" name="host_name" type="string"/>
+        <element label="ID" max_length="40" name="id" type="string"/>
+        <element label="Move group ID" max_length="40" name="move_group_id" type="string"/>
+        <element label="Operating system" max_length="40" name="operating_system" type="string"/>
+        <element label="Operating system version" max_length="40" name="operating_system_version" type="string"/>
+        <element label="Ram allocated gb" max_length="20" name="ram_allocated_gb" type="decimal"/>
+        <element label="Ram used gb" max_length="20" name="ram_used_gb" type="decimal"/>
+        <element label="role" max_length="40" name="role" type="string"/>
+        <element label="Storage allocated gb" max_length="20" name="storage_allocated_gb" type="decimal"/>
+        <element label="Storage used gb" max_length="20" name="storage_used_gb" type="decimal"/>
+        <element label="Updated at" max_length="40" name="updated_at" type="string"/>
+        <element label="virtual" max_length="40" name="virtual" type="boolean"/>
+        <element label="Virtualization cluster ID" max_length="40" name="virtualization_cluster_id" type="string"/>
+        <element label="zone" max_length="40" name="zone" type="string"/>
+    </element>
+</database>

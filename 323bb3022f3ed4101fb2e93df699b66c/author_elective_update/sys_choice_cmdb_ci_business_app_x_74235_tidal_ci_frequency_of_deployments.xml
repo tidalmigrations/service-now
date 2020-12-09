@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="x_74235_tidal_ci_frequency_of_deployments" table="cmdb_ci_business_app" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>x_74235_tidal_ci_frequency_of_deployments</element>
+            <name>cmdb_ci_business_app</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-21 23:47:42</sys_created_on>
+            <sys_id>b34cc0972f9b90101fb2e93df699b68e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_74235_tidal_ci_frequency_of_deployments</sys_name>
+            <sys_package display_value="Tidal CI Integration" source="x_74235_tidal_ci">323bb3022f3ed4101fb2e93df699b66c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_business_app_x_74235_tidal_ci_frequency_of_deployments</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-21 23:47:42</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_74235_tidal_ci_frequency_of_deployments</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hourly</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-21 23:47:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b4cc0972f9b90101fb2e93df699b68d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-21 23:47:42</sys_updated_on>
+            <value>Hourly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_74235_tidal_ci_frequency_of_deployments</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Daily</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-21 23:47:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f4cc0972f9b90101fb2e93df699b691</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-21 23:47:42</sys_updated_on>
+            <value>Daily</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_74235_tidal_ci_frequency_of_deployments</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Monthly</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-21 23:47:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b4c841b2f9b90101fb2e93df699b6db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-21 23:47:42</sys_updated_on>
+            <value>Monthly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_74235_tidal_ci_frequency_of_deployments</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quarterly</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-21 23:47:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb4c841b2f9b90101fb2e93df699b6df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-21 23:47:42</sys_updated_on>
+            <value>Quarterly</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

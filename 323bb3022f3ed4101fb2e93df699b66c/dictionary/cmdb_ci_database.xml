@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci" label="Database" max_length="40" name="cmdb_ci_database" sizeclass="62" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Database Path" max_length="100" name="x_74235_tidal_ci_database_path" type="string"/>
+        <element label="Database Size" max_length="40" name="x_74235_tidal_ci_database_size" type="integer"/>
+        <element label="DBA Database Size" max_length="40" name="x_74235_tidal_ci_dba_database_size" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Tidal ID" max_length="40" name="x_74235_tidal_ci_tidal_id" type="string"/>
+    </element>
+</database>

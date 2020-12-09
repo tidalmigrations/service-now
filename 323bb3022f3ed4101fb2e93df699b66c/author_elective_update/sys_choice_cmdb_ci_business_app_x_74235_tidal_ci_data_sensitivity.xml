@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="x_74235_tidal_ci_data_sensitivity" table="cmdb_ci_business_app" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>x_74235_tidal_ci_data_sensitivity</element>
+            <name>cmdb_ci_business_app</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-21 23:22:44</sys_created_on>
+            <sys_id>0e9648532f9b90101fb2e93df699b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_74235_tidal_ci_data_sensitivity</sys_name>
+            <sys_package display_value="Tidal CI Integration" source="x_74235_tidal_ci">323bb3022f3ed4101fb2e93df699b66c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_business_app_x_74235_tidal_ci_data_sensitivity</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-21 23:22:44</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_74235_tidal_ci_data_sensitivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Low</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-21 23:22:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>429648532f9b90101fb2e93df699b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-21 23:22:44</sys_updated_on>
+            <value>Low</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_74235_tidal_ci_data_sensitivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medium</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-21 23:22:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a9648532f9b90101fb2e93df699b645</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-21 23:22:44</sys_updated_on>
+            <value>Medium</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_74235_tidal_ci_data_sensitivity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>High</label>
+            <language>en</language>
+            <name>cmdb_ci_business_app</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-21 23:22:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42960c932f9b90101fb2e93df699b6de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-21 23:22:44</sys_updated_on>
+            <value>High</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

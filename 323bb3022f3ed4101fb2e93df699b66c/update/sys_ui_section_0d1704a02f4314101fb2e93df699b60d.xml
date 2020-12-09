@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="0d1704a02f4314101fb2e93df699b60d" sys_domain="global" table="x_74235_tidal_ci_tidal_application_import" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-01 00:05:52</sys_created_on>
+            <sys_id>411780e02f4314101fb2e93df699b6cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-01 00:05:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-01 00:05:52</sys_created_on>
+            <sys_id>491780e02f4314101fb2e93df699b6cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-01 00:05:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>custom_fields</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-01 00:05:52</sys_created_on>
+            <sys_id>c91780e02f4314101fb2e93df699b6cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-01 00:05:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>annual_hosting_costs</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:38</sys_created_on>
+            <sys_id>263b40852f5710101fb2e93df699b653</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>annual_staff_costs</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:39</sys_created_on>
+            <sys_id>ae3b40852f5710101fb2e93df699b65c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>blockers</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:39</sys_created_on>
+            <sys_id>3e3b40852f5710101fb2e93df699b664</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>boosters</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:39</sys_created_on>
+            <sys_id>fa3b40852f5710101fb2e93df699b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_continuity_plan</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:39</sys_created_on>
+            <sys_id>fa3b40852f5710101fb2e93df699b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_value</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:39</sys_created_on>
+            <sys_id>3e3b40852f5710101fb2e93df699b67c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>can_run_on_linux</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:39</sys_created_on>
+            <sys_id>be3b40852f5710101fb2e93df699b684</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cast_identifier</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:40</sys_created_on>
+            <sys_id>3a3b40852f5710101fb2e93df699b699</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>continuous_delivery</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:40</sys_created_on>
+            <sys_id>7e3b40852f5710101fb2e93df699b6a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cots</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:40</sys_created_on>
+            <sys_id>833b40852f5710101fb2e93df699b6aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>created_at</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:40</sys_created_on>
+            <sys_id>0b3b40852f5710101fb2e93df699b6b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_sensitivity</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:40</sys_created_on>
+            <sys_id>cf3b40852f5710101fb2e93df699b6ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>diagram_id</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:40</sys_created_on>
+            <sys_id>c73b40852f5710101fb2e93df699b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_of_support_date</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:41</sys_created_on>
+            <sys_id>033b40852f5710101fb2e93df699b6cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>forecast_midpoint_cost</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:41</sys_created_on>
+            <sys_id>8b3b40852f5710101fb2e93df699b6d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>frequency_of_deployments</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:41</sys_created_on>
+            <sys_id>573b40852f5710101fb2e93df699b6dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>legal_holds</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:41</sys_created_on>
+            <sys_id>533b40852f5710101fb2e93df699b6e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lines_of_code</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:41</sys_created_on>
+            <sys_id>9f3b40852f5710101fb2e93df699b6ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>migration_complexity</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:41</sys_created_on>
+            <sys_id>1f3b40852f5710101fb2e93df699b6f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>migration_effort_estimate</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:42</sys_created_on>
+            <sys_id>db3b80852f5710101fb2e93df699b600</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>paas_readiness</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:42</sys_created_on>
+            <sys_id>db3b80852f5710101fb2e93df699b609</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>person_hours_saved</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:42</sys_created_on>
+            <sys_id>2f3b80852f5710101fb2e93df699b612</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pii</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:42</sys_created_on>
+            <sys_id>673b80852f5710101fb2e93df699b628</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>regulated_requirements</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:42</sys_created_on>
+            <sys_id>2b3b80852f5710101fb2e93df699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>revenue</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:42</sys_created_on>
+            <sys_id>2f3b80852f5710101fb2e93df699b63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>roadblocks</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:43</sys_created_on>
+            <sys_id>633b80852f5710101fb2e93df699b644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>score</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:43</sys_created_on>
+            <sys_id>e73b80852f5710101fb2e93df699b64d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_code_controlled</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:43</sys_created_on>
+            <sys_id>f33b80852f5710101fb2e93df699b67c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_code_location</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:43</sys_created_on>
+            <sys_id>fb3b80852f5710101fb2e93df699b685</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_users</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:44</sys_created_on>
+            <sys_id>773b80852f5710101fb2e93df699b68f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transition_overview</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:44</sys_created_on>
+            <sys_id>ff3b80852f5710101fb2e93df699b698</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transition_plan_complete</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:44</sys_created_on>
+            <sys_id>bb3b80852f5710101fb2e93df699b6a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>updated_at</element>
+            <position>35</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-14 23:56:44</sys_created_on>
+            <sys_id>844b80852f5710101fb2e93df699b6ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-14 23:56:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transition_type</element>
+            <position>36</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-15 00:22:25</sys_created_on>
+            <sys_id>d821d0892f5710101fb2e93df699b6ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-15 00:22:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>uptime_requirements</element>
+            <position>37</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-15 00:22:26</sys_created_on>
+            <sys_id>9c21d0892f5710101fb2e93df699b6f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-15 00:22:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>recommended_transition_type</element>
+            <position>38</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-15 00:22:27</sys_created_on>
+            <sys_id>e42114892f5710101fb2e93df699b65a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-15 00:22:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id</element>
+            <position>39</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-22 00:02:26</sys_created_on>
+            <sys_id>33af409b2f9b90101fb2e93df699b6cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-22 00:02:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>app_database_size_mb</element>
+            <position>40</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 18:24:11</sys_created_on>
+            <sys_id>3325c2f72ffb10101fb2e93df699b694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74235_tidal_ci_tidal_application_import" sys_domain="global" view="Default view">0d1704a02f4314101fb2e93df699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 18:24:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_74235_tidal_ci_tidal_application_import</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-01 00:05:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d1704a02f4314101fb2e93df699b60d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_74235_tidal_ci_tidal_application_import</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tidal CI Integration" source="x_74235_tidal_ci">323bb3022f3ed4101fb2e93df699b66c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</sys_scope>
+            <sys_update_name>sys_ui_section_0d1704a02f4314101fb2e93df699b60d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-01 00:05:52</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

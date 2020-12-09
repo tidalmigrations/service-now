@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_74235_tidal_ci_transition_type" label="Transition type" language="en" table="cmdb_ci_appl">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_74235_tidal_ci_transition_type</element>
+            <help/>
+            <hint/>
+            <label>Transition type</label>
+            <language>en</language>
+            <name>cmdb_ci_appl</name>
+            <plural>Transition types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 17:53:06</sys_created_on>
+            <sys_id>f81e793f2fbb10101fb2e93df699b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Transition type</sys_name>
+            <sys_package display_value="Tidal CI Integration" source="x_74235_tidal_ci">323bb3022f3ed4101fb2e93df699b66c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tidal CI Integration">323bb3022f3ed4101fb2e93df699b66c</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_appl_x_74235_tidal_ci_transition_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 17:53:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

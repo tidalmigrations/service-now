@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci_appl" label="Database Instance" max_length="40" name="cmdb_ci_db_instance" sizeclass="49" type="collection">
+        <element label="Database path" max_length="100" name="x_74235_tidal_ci_database_path" type="string"/>
+        <element label="Database size (MB)" max_length="40" name="x_74235_tidal_ci_database_size" type="integer"/>
+        <element label="DBA database size (GB)" max_length="40" name="x_74235_tidal_ci_dba_database_size" type="integer"/>
+        <element choice="1" label="Recommend transitions" max_length="40" name="x_74235_tidal_ci_recommend_transitions" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
